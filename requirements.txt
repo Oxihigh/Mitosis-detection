@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+ultralytics
+sahi
+pillow
+numpy
+matplotlib
