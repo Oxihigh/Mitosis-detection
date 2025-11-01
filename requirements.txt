@@ -3,6 +3,7 @@ torch
 torchvision
 ultralytics
 sahi
+opencv-python-headless
 pillow
 numpy
 matplotlib
